@@ -1,0 +1,182 @@
+/* Your styles here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header */
+
+.header {
+  background-color: black;
+  padding-inline: 5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.logo {
+  text-align: center;
+}
+
+#epi-logo {
+  width: 60%;
+}
+
+/* main */
+
+.corsoweb {
+  text-align: center;
+  padding-inline: 1px;
+  background-image: url(../images/banner.jpg);
+  padding: 29px;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 39px;
+  padding-top: 35px;
+}
+
+section h1 {
+  padding: 20px;
+  font-size: 32px;
+  font-weight: 600;
+  color: #25a2c3;
+}
+
+h1 {
+  font-size: larger;
+}
+
+h2 {
+  padding: 20px;
+  font-size: 22px;
+  font-weight: 600;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+h1,
+h2,
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.65;
+}
+
+h1,
+h2 {
+  color: #25a2c3;
+  padding-inline: 0px;
+  line-height: 34px;
+}
+
+.inputstyle {
+  margin-top: 37px;
+  padding: 14px;
+  padding-inline: 25px;
+  border-radius: 5px;
+  border: none;
+  background-color: #f04c2f;
+  color: white;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.sezione-2 {
+  text-align: center;
+  padding-inline: 1px;
+  padding: 29px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.portatile-img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.sezione-3 {
+  text-align: center;
+  padding-inline: 1px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  background-color: #ed220d;
+  color: white;
+}
+
+.sezione-3 h1 {
+  color: white;
+}
+
+.sezione-3 h2 {
+  color: white;
+}
+
+
+.mesi {
+  font-style: italic;
+}
+
+.foto {
+  width: 100%;
+}
+
+.tutte-foto {
+  text-align: center;
+  padding-inline: 1px;
+  padding: 29px;
+}
+
+.bordersect {
+  border: solid lightgray 1px;
+  padding-bottom: 39px;
+}
+
+/* FOOTER */
+
+.sezione-footer h1 {
+  color: white;
+}
+
+.sezione-footer h2 {
+  color: white;
+  font-size: 2rem;
+}
+
+.sezione-footer {
+  text-align: center;
+  padding-inline: 1px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  background-color: #2ea8c6;
+  color: #c8e7f0;
+}
+
+.copy {
+  padding-top: 42px;
+  padding-inline: 87px;
+}
+
+.pixabay {
+  border-top: solid #fbfafa9e;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.sezione-footer a
+{
+    color: #c8e7f0
+}
+
+
+.numero-email {
+  color: #c8e7f0;
+}
+
+.sezione-footer i{
+color: white;
+}
+
+.foot i {
+    letter-spacing: 5px;
+}
