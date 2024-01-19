@@ -58,7 +58,6 @@ h1,
 h2,
 p {
   font-family: "Open Sans", sans-serif;
-  font-size: 1.2rem;
   line-height: 1.65;
 }
 
@@ -106,7 +105,7 @@ h2 {
   padding-inline: 1px;
   padding-top: 17px;
   padding-bottom: 17px;
-  background-color: #ed220d;
+  background-color: #D83E23;
   color: white;
 }
 
@@ -116,6 +115,7 @@ h2 {
 
 .sezione-3 h2 {
   color: white;
+  margin-bottom: -30px;
 }
 
 
@@ -156,6 +156,7 @@ h2 {
   padding-bottom: 17px;
   background-color: #2ea8c6;
   color: #c8e7f0;
+  margin-top: 45px;
 }
 
 .copy {
