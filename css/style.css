@@ -90,7 +90,13 @@ h2 {
   padding-top: 20px;
 }
 
+.sezione-2 p{
+    margin-top: -25px;
+  }
+
+
 .portatile-img {
+    margin-top:  25px;
   width: 100%;
   border-radius: 50%;
 }
